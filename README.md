@@ -1,4 +1,4 @@
-# Hotel-Booking-Analysis
+# EDA on Hotel-Booking-Analysis 
 **Index**
 1. Project Summary
 2. Problem Statement
